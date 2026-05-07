@@ -2,28 +2,22 @@
 <!-- ║           RIYAN OZAIR — GITHUB PROFILE README            ║ -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<!-- ── HEADER ─────────────────────────────────────────────────
-     capsule-render is unreliable on free Vercel — using a
-     self-hosted SVG banner via raw GitHub instead.
-     Replace the src below with your own banner image if you
-     upload one to your repo assets/ folder.
-     ────────────────────────────────────────────────────────── -->
-
 <div align="center">
 
-<!-- Animated typing headline — 100% reliable (demolab CDN) -->
-<a href="https://github.com/RiyanOzair">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=778DA9&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I'm+Riyan+Ozair+%F0%9F%91%8B;Data+Scientist+%7C+ML+Engineer;Building+Production+ML+Systems;Multi-Agent+AI+%7C+MLOps+%7C+LLMs" />
-</a>
+<!-- ANIMATED NAME -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=2000&pause=1200&color=E0E1DD&center=true&vCenter=true&width=700&height=90&lines=RIYAN+OZAIR" />
+
+<!-- ANIMATED ROLES -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=778DA9&center=true&vCenter=true&width=700&height=40&lines=Data+Scientist+%7C+ML+Engineer+%7C+AI+Builder;XGBoost+·+FastAPI+·+Docker+·+SHAP+·+MLflow;Multi-Agent+AI+%7C+MLOps+%7C+LLM+Applications;Open+to+Internships+%26+Entry-Level+Roles" />
 
 <br/>
 
-<!-- SUB-HEADING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=2000&color=415A77&center=true&vCenter=true&width=600&height=30&lines=XGBoost+%7C+FastAPI+%7C+Docker+%7C+SHAP+%7C+MLflow+%7C+LLMs;Open+to+Internships+%26+Entry-Level+Roles+in+Data+Science" />
+<!-- DIVIDER LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/><br/>
+<br/>
 
-<!-- SOCIAL LINKS -->
+<!-- SOCIAL BADGES -->
 <a href="https://linkedin.com/in/riyan-ozair">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
@@ -41,10 +35,16 @@
 <img src="https://komarev.com/ghpvc/?username=RiyanOzair&style=flat-square&color=415a77&label=PROFILE+VIEWS" />
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-2d6a4f?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/FOCUS-ML%20Engineering%20%26%20MLOps-415a77?style=flat-square" />
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
----
+<br/>
 
 ## `$ whoami`
 
@@ -72,7 +72,7 @@ class RiyanOzair:
         return "riyanozair99@gmail.com"
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Tech Stack
 
@@ -105,7 +105,7 @@ class RiyanOzair:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Projects
 
@@ -154,57 +154,62 @@ class RiyanOzair:
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Experience
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────────────┐
-│  ROLE                                COMPANY                          PERIOD         │
-├──────────────────────────────────────────────────────────────────────────────────────┤
-│  Data Science Intern                 Main Flow Services & Tech        Jul–Aug 2025   │
-│  Data Analytics Virtual Intern       Deloitte Australia  (Forage)     Aug 2025       │
-│  Data Analytics Virtual Intern       Quantium           (Forage)      Aug 2025       │
-│  Data Science Virtual Intern         British Airways    (Forage)      Aug 2025       │
-│  Data Visualisation Virtual Intern   TATA               (Forage)      Aug 2025       │
-└──────────────────────────────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────────────────────────────────┐
+│  ROLE                                COMPANY                          PERIOD          │
+├───────────────────────────────────────────────────────────────────────────────────────┤
+│  Data Science Intern                 Main Flow Services & Tech        Jul – Aug 2025  │
+│  Data Analytics Virtual Intern       Deloitte Australia  (Forage)     Aug 2025        │
+│  Data Analytics Virtual Intern       Quantium           (Forage)      Aug 2025        │
+│  Data Science Virtual Intern         British Airways    (Forage)      Aug 2025        │
+│  Data Visualisation Virtual Intern   TATA               (Forage)      Aug 2025        │
+└───────────────────────────────────────────────────────────────────────────────────────┘
 ```
-
----
 
 ## Education
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────────────┐
-│  B.E. in AI & Data Science           MJCET, Hyderabad                2022 – 2026    │
-│  CGPA: 8.35 / 10  (up to Semester 7)                                                │
-├──────────────────────────────────────────────────────────────────────────────────────┤
-│  Data Science with AI                Full Stack Academy (5-Month)    Apr–Aug 2025    │
-│  Certificate of Excellence — awarded by Managing Director                            │
-├──────────────────────────────────────────────────────────────────────────────────────┤
-│  Data Science                        Teachnook × IIT Roorkee          Jun–Jul 2024   │
-└──────────────────────────────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────────────────────────────────┐
+│  B.E. in AI & Data Science           MJCET, Hyderabad                2022 – 2026     │
+│  CGPA: 8.35 / 10  (up to Semester 7)                                                 │
+├───────────────────────────────────────────────────────────────────────────────────────┤
+│  Data Science with AI                Full Stack Academy (5-Month)    Apr – Aug 2025   │
+│  Certificate of Excellence — awarded by Managing Director                             │
+├───────────────────────────────────────────────────────────────────────────────────────┤
+│  Data Science                        Teachnook × IIT Roorkee          Jun – Jul 2024  │
+└───────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## GitHub Stats
 
-<!-- ── STATS NOTE ─────────────────────────────────────────────
-     github-readme-stats public instance gets rate-limited.
-     If cards show broken, open each URL in a browser to check.
-     Fix: fork github-readme-stats and deploy your own instance
-     on Vercel with your own GITHUB_TOKEN env var — takes 5 min.
-     Vercel deploy button: https://github.com/anuraghazra/github-readme-stats
-     ────────────────────────────────────────────────────────── -->
+<!-- ══════════════════════════════════════════════════════════
+     STATS CARDS ARE BROKEN ON THE PUBLIC INSTANCE?
+     Fix in 5 minutes — deploy your own:
+
+     1. Go to: https://github.com/anuraghazra/github-readme-stats
+     2. Click the blue "Deploy to Vercel" button in the README
+     3. Sign in with GitHub → create a GitHub PAT at
+        https://github.com/settings/tokens
+        (scopes: repo, read:user)
+     4. Add it as GITHUB_TOKEN env var in Vercel
+     5. Your instance URL will be: https://YOUR-APP.vercel.app
+     6. Replace "github-readme-stats.vercel.app" in the two
+        img src URLs below with YOUR-APP.vercel.app
+     ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <a href="https://github.com/RiyanOzair">
-  <img src="https://github-readme-stats.vercel.app/api?username=RiyanOzair&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=778da9&icon_color=778da9&text_color=e0e1dd&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RiyanOzair&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=778da9&icon_color=778da9&text_color=e0e1dd&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=3600" width="49%" />
 </a>
 <a href="https://github.com/RiyanOzair">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyanOzair&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=778da9&text_color=e0e1dd&border_radius=10&langs_count=8&cache_seconds=1800" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyanOzair&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=778da9&text_color=e0e1dd&border_radius=10&langs_count=8&cache_seconds=3600" width="49%" />
 </a>
 
 <br/><br/>
@@ -215,7 +220,7 @@ class RiyanOzair:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## GitHub Trophies
 
@@ -223,22 +228,27 @@ class RiyanOzair:
   <img src="https://github-profile-trophy.vercel.app/?username=RiyanOzair&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="100%" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Contribution Snake
 
-<!-- ── SNAKE NOTE ──────────────────────────────────────────────
-     The snake files are generated by the GitHub Action in
-     .github/workflows/snake.yml  (included in this repo).
+<!-- ══════════════════════════════════════════════════════════
+     SNAKE SETUP — do this ONCE before the snake shows up:
 
-     FIRST TIME SETUP — do this ONCE:
-     1. Repo Settings → Actions → General
-        → "Read and write permissions" → Save
-     2. Actions tab → "Generate Snake" → "Run workflow"
-     3. Wait ~30 seconds → refresh → snake appears ✓
+     STEP 1 — Enable write permissions
+       Repo → Settings → Actions → General
+       → "Read and write permissions" → Save
 
-     After that it auto-updates every day at midnight UTC.
-     ────────────────────────────────────────────────────────── -->
+     STEP 2 — Add the workflow file
+       Create: .github/workflows/snake.yml
+       (use the snake.yml file provided alongside this README)
+
+     STEP 3 — Trigger manually
+       Actions tab → "Generate Snake" → "Run workflow"
+       Wait ~30 seconds → done ✓
+
+     After this it auto-runs every day. Never breaks again.
+     ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <picture>
@@ -252,7 +262,7 @@ class RiyanOzair:
   </picture>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Certifications
 
@@ -265,22 +275,21 @@ class RiyanOzair:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Leadership
 
 | Role | Organization | Period |
 |---|---|---|
-| **Operations Head** | ACM MJCET — Association for Computing Machinery | 2024–2025 |
+| **Operations Head** | ACM MJCET — Association for Computing Machinery | 2024 – 2025 |
 | **Team Captain** | AWS Cloud Club MJCET Annual Day — Project Expo | Jul 2025 |
 | **Presenter** | EXPOGENIX'25 — CS & AI Dept, MJCET | Jul 2025 |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-*Actively seeking internship and entry-level Data Science / ML Engineering roles.*
-*Reach out — let's build something.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=415A77&center=true&vCenter=true&width=600&lines=Actively+seeking+DS+%2F+ML+Engineering+roles;Reach+out+—+let's+build+something+together" />
 
 <br/>
 
