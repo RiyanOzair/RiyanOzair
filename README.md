@@ -1,45 +1,48 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║              RIYAN OZAIR — GITHUB PROFILE README             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║           RIYAN OZAIR — GITHUB PROFILE README            ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<!-- HEADER -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=vortex&color=0:0a0a0f,30:0d1b2a,60:1b263b,100:415a77&height=240&section=header&text=RIYAN%20OZAIR&fontSize=70&fontColor=e0e1dd&fontAlignY=38&desc=Data%20Scientist%20·%20ML%20Engineer%20·%20AI%20Builder&descSize=17&descAlignY=57&animation=twinkling" />
-</div>
+<!-- ── HEADER ─────────────────────────────────────────────────
+     capsule-render is unreliable on free Vercel — using a
+     self-hosted SVG banner via raw GitHub instead.
+     Replace the src below with your own banner image if you
+     upload one to your repo assets/ folder.
+     ────────────────────────────────────────────────────────── -->
 
-<!-- TYPING SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=778DA9&center=true&vCenter=true&width=650&lines=Building+production-grade+ML+systems;Multi-Agent+AI+%7C+MLOps+%7C+LLM+Applications;XGBoost+%7C+FastAPI+%7C+Docker+%7C+SHAP;Open+to+Internships+%26+Entry-Level+Roles" />
-</div>
+
+<!-- Animated typing headline — 100% reliable (demolab CDN) -->
+<a href="https://github.com/RiyanOzair">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=778DA9&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I'm+Riyan+Ozair+%F0%9F%91%8B;Data+Scientist+%7C+ML+Engineer;Building+Production+ML+Systems;Multi-Agent+AI+%7C+MLOps+%7C+LLMs" />
+</a>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-<div align="center">
-  <a href="https://linkedin.com/in/riyan-ozair">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="mailto:riyanozair99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://github.com/RiyanOzair">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>&nbsp;
-  <img src="https://img.shields.io/badge/📍_Hyderabad,_India-1b263b?style=for-the-badge" />
-</div>
+<!-- SUB-HEADING -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=2000&color=415A77&center=true&vCenter=true&width=600&height=30&lines=XGBoost+%7C+FastAPI+%7C+Docker+%7C+SHAP+%7C+MLflow+%7C+LLMs;Open+to+Internships+%26+Entry-Level+Roles+in+Data+Science" />
 
-<br/>
+<br/><br/>
+
+<!-- SOCIAL LINKS -->
+<a href="https://linkedin.com/in/riyan-ozair">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+<a href="mailto:riyanozair99@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;
+<a href="https://github.com/RiyanOzair">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>&nbsp;
+<img src="https://img.shields.io/badge/Hyderabad,_India-1b263b?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+<br/><br/>
 
 <!-- STATUS ROW -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RiyanOzair&style=flat-square&color=415a77&label=PROFILE+VIEWS" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-2d6a4f?style=flat-square&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/BASED_IN-Hyderabad_·_India-1b263b?style=flat-square" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=RiyanOzair&style=flat-square&color=415a77&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-2d6a4f?style=flat-square" />
 
-<br/>
+</div>
 
 ---
 
@@ -109,11 +112,7 @@ class RiyanOzair:
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>
-        <a href="https://subscription-churn-ml-system.onrender.com">
-          Subscription Churn Prediction · ML System
-        </a>
-      </h3>
+      <h3><a href="https://subscription-churn-ml-system.onrender.com">Subscription Churn Prediction · ML System</a></h3>
       <p>
         <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -124,11 +123,7 @@ class RiyanOzair:
       Production-grade end-to-end ML system predicting churn on 7,043 Telco records. SHAP explainability, MLflow experiment tracking, batch Excel predictions via FastAPI — deployed on Render via Docker.
     </td>
     <td width="50%" valign="top">
-      <h3>
-        <a href="https://stockai-ver2-0.onrender.com/">
-          StockAI v2.0 · Multi-Agent Market Platform
-        </a>
-      </h3>
+      <h3><a href="https://stockai-ver2-0.onrender.com/">StockAI v2.0 · Multi-Agent Market Platform</a></h3>
       <p>
         <img src="https://img.shields.io/badge/LLaMA--3.3--70B-7c3aed?style=flat-square" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -140,11 +135,7 @@ class RiyanOzair:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>
-        <a href="https://student-performance-predictor-ml-end2end.onrender.com">
-          Student Performance Predictor · ML Web App
-        </a>
-      </h3>
+      <h3><a href="https://student-performance-predictor-ml-end2end.onrender.com">Student Performance Predictor · ML Web App</a></h3>
       <p>
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
         <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
@@ -157,9 +148,8 @@ class RiyanOzair:
       <p>
         <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
         <img src="https://img.shields.io/badge/Forensic_Analytics-1b263b?style=flat-square" />
-        <img src="https://img.shields.io/badge/Consulting_Simulation-415a77?style=flat-square" />
       </p>
-      Interactive Tableau dashboard for Deloitte Australia's analytics simulation — forensic technology, consulting-style problem solving, and communicating data insights to leadership stakeholders.
+      Interactive Tableau dashboard for Deloitte Australia's analytics simulation — forensic technology, consulting-style problem solving, communicating data insights to leadership stakeholders.
     </td>
   </tr>
 </table>
@@ -169,15 +159,15 @@ class RiyanOzair:
 ## Experience
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────────────┐
-│  ROLE                                COMPANY                          PERIOD        │
-├─────────────────────────────────────────────────────────────────────────────────────┤
-│  Data Science Intern                 Main Flow Services & Tech        Jul–Aug 2025  │
-│  Data Analytics Virtual Intern       Deloitte Australia  (Forage)     Aug 2025      │
-│  Data Analytics Virtual Intern       Quantium           (Forage)      Aug 2025      │
-│  Data Science Virtual Intern         British Airways    (Forage)      Aug 2025      │
-│  Data Visualisation Virtual Intern   TATA               (Forage)      Aug 2025      │
-└─────────────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────────────┐
+│  ROLE                                COMPANY                          PERIOD         │
+├──────────────────────────────────────────────────────────────────────────────────────┤
+│  Data Science Intern                 Main Flow Services & Tech        Jul–Aug 2025   │
+│  Data Analytics Virtual Intern       Deloitte Australia  (Forage)     Aug 2025       │
+│  Data Analytics Virtual Intern       Quantium           (Forage)      Aug 2025       │
+│  Data Science Virtual Intern         British Airways    (Forage)      Aug 2025       │
+│  Data Visualisation Virtual Intern   TATA               (Forage)      Aug 2025       │
+└──────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -185,30 +175,43 @@ class RiyanOzair:
 ## Education
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────────────┐
-│  B.E. in AI & Data Science           MJCET, Hyderabad                2022 – 2026   │
-│  CGPA: 8.35 / 10  (up to Semester 7)                                               │
-├─────────────────────────────────────────────────────────────────────────────────────┤
-│  Data Science with AI                Full Stack Academy (5-Month)    Apr–Aug 2025   │
-│  Certificate of Excellence — awarded by Managing Director                           │
-├─────────────────────────────────────────────────────────────────────────────────────┤
-│  Data Science                        Teachnook × IIT Roorkee          Jun–Jul 2024  │
-│  Cognizance'24 collaboration                                                        │
-└─────────────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────────────┐
+│  B.E. in AI & Data Science           MJCET, Hyderabad                2022 – 2026    │
+│  CGPA: 8.35 / 10  (up to Semester 7)                                                │
+├──────────────────────────────────────────────────────────────────────────────────────┤
+│  Data Science with AI                Full Stack Academy (5-Month)    Apr–Aug 2025    │
+│  Certificate of Excellence — awarded by Managing Director                            │
+├──────────────────────────────────────────────────────────────────────────────────────┤
+│  Data Science                        Teachnook × IIT Roorkee          Jun–Jul 2024   │
+└──────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 ## GitHub Stats
 
+<!-- ── STATS NOTE ─────────────────────────────────────────────
+     github-readme-stats public instance gets rate-limited.
+     If cards show broken, open each URL in a browser to check.
+     Fix: fork github-readme-stats and deploy your own instance
+     on Vercel with your own GITHUB_TOKEN env var — takes 5 min.
+     Vercel deploy button: https://github.com/anuraghazra/github-readme-stats
+     ────────────────────────────────────────────────────────── -->
+
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=RiyanOzair&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=778da9&icon_color=778da9&text_color=e0e1dd&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyanOzair&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=778da9&text_color=e0e1dd&border_radius=10&langs_count=8" width="49%" />
+<a href="https://github.com/RiyanOzair">
+  <img src="https://github-readme-stats.vercel.app/api?username=RiyanOzair&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=778da9&icon_color=778da9&text_color=e0e1dd&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" width="49%" />
+</a>
+<a href="https://github.com/RiyanOzair">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyanOzair&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=778da9&text_color=e0e1dd&border_radius=10&langs_count=8&cache_seconds=1800" width="49%" />
+</a>
 
-  <br/><br/>
+<br/><br/>
 
+<a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=RiyanOzair&theme=github-dark-blue&hide_border=true&background=0d1117&ring=778da9&fire=e0e1dd&currStreakLabel=778da9&sideLabels=778da9&border_radius=10&date_format=j%20M%5B%20Y%5D" width="60%" />
+</a>
 
 </div>
 
@@ -224,8 +227,18 @@ class RiyanOzair:
 
 ## Contribution Snake
 
-<!-- ⚠️  The snake only appears AFTER you run the GitHub Action below.       -->
-<!-- Until then this section will be blank — that is expected behaviour.     -->
+<!-- ── SNAKE NOTE ──────────────────────────────────────────────
+     The snake files are generated by the GitHub Action in
+     .github/workflows/snake.yml  (included in this repo).
+
+     FIRST TIME SETUP — do this ONCE:
+     1. Repo Settings → Actions → General
+        → "Read and write permissions" → Save
+     2. Actions tab → "Generate Snake" → "Run workflow"
+     3. Wait ~30 seconds → refresh → snake appears ✓
+
+     After that it auto-updates every day at midnight UTC.
+     ────────────────────────────────────────────────────────── -->
 
 <div align="center">
   <picture>
@@ -264,7 +277,6 @@ class RiyanOzair:
 
 ---
 
-<!-- FOOTER CTA -->
 <div align="center">
 
 *Actively seeking internship and entry-level Data Science / ML Engineering roles.*
@@ -275,9 +287,5 @@ class RiyanOzair:
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riyan-ozair)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyanozair99@gmail.com)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:415a77,50:1b263b,100:0a0a0f&height=130&section=footer" />
 
 </div>
