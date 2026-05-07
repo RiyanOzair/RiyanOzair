@@ -186,18 +186,14 @@ class RiyanOzair:
 
 ## GitHub Stats
 
-<!-- ══════════════════════════════════════════════════════
-  STATS CARDS STILL BROKEN? Fix permanently in 5 min:
-  1. Fork https://github.com/anuraghazra/github-readme-stats
-  2. Click "Deploy to Vercel" in their README
-  3. Add GITHUB_TOKEN env var (from github.com/settings/tokens)
-  4. Replace "github-readme-stats.vercel.app" below with
-     your own Vercel app URL
-══════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiyanOzair&theme=github_dark" width="98%" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RiyanOzair&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=778da9&icon_color=778da9&text_color=e0e1dd&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=3600" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyanOzair&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=778da9&text_color=e0e1dd&border_radius=10&langs_count=8&cache_seconds=3600" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RiyanOzair&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RiyanOzair&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RiyanOzair&theme=github_dark" width="32%" />
 </p>
 
 <p align="center">
